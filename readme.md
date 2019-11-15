@@ -1,35 +1,29 @@
-# INF99X: Sample Course
+﻿# DP-201 Azure 데이터 솔루션 설계
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+아래에는 각 모듈의 랩 목표가 요약되어 있습니다.
 
-## What are we doing?
+## 랩 1 - 데이터 플랫폼 아키텍처 관련 고려 사항
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+학생들은 이 모듈에서 습득한 정보를 AdventureWorks 관련 사례 연구에 정의된 시나리오에 적용합니다. 이 랩에서는 아키텍처 생성을 위한 핵심 원칙을 AdventureWorks에 적용하는 방식을 설명하고 해당 예제를 제공합니다. 
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+핵심 원칙에는 보안을 고려한 설계가 포함됩니다. 솔루션 내에서 성능과 확장성 관련 기능을 설계하는 방법에 대한 구체적인 예제도 제공됩니다. 그리고 AdventureWorks 조직에 필요한 가용성 및 복구 가능성 옵션도 확인하며, 마지막으로 이러한 옵션을 사용하는 경우 제공되는 효율성 및 운영 방식 개선 기회에 대해 알아봅니다.
 
-## How should I use these files relative to the released MOC files?
+## 랩 2 - Azure 일괄 처리 참조 아키텍처
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+이 랩에서는 사례 연구를 활용하여 일괄 처리 모드 측면에서 람다 아키텍처와 관련이 있는 업무/기술적 요구 사항을 파악합니다. 그런 다음 엔터프라이즈 BI 솔루션을 설계하고 아키텍처에 자동화 기능을 추가합니다. 그리고 마지막으로 해당 솔루션을 지원하는 데 필요한 데이터 저장소를 중심으로 하는 AI 아키텍처를 설계해 봅니다.  
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+## 랩 3 - Azure 실시간 참조 아키텍처
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+이 랩에서는 사례 연구를 활용하여 실시간 처리 측면에서 람다 아키텍처와 관련이 있는 업무/기술적 요구 사항을 파악합니다. 그런 다음 Azure Stream Analytics 및 Azure Databricks를 사용하여 스트리밍 파이프라인을 설계합니다. 그리고 마지막으로 AdventureWorks의 비즈니스 요구 사항을 충족하는 데 필요한 IoT 아키텍처를 설계해 봅니다. 
 
-## What about changes to the student handbook?
+## 랩 4 - Azure 데이터 플랫폼 보안 고려 사항
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+이 랩에서는 AdventureWorks 환경 보호를 위한 심층 방어 방식을 제공하는 데 사용할 수 있는 광범위한 보안 옵션을 살펴봅니다. 이 과정에서 사용 가능한 네트워크 보호 옵션과 각 서비스에서 지원하는 인증 메커니즘을 조사합니다. 그리고 사용 가능한 암호화 옵션과 네트워크 수준/애플리케이션 수준 보호를 파악합니다.
 
-## How do I contribute?
+## 랩 5 - 크기 조정 및 복원을 고려한 설계
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+이 랩에서는 조직용 솔루션 아키텍처를 정의할 때 고려해야 하는 다양한 복원력 및 크기 조정 관련 문제를 살펴봅니다. 먼저 크기 조정 기능을 솔루션에 통합하는 방법을 알아봅니다. 그런 다음 스토리지 및 데이터베이스 성능을 살펴보고, 고가용성 솔루션을 제공할 수 있는 방법을 파악합니다. 마지막으로 재해 복구 관련 문제를 살펴봅니다.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+## 랩 6 - 효율성 및 운영을 고려한 설계
 
-## Notes
-
-### Classroom Materials
-
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+이 랩에서는 클라우드 환경 사용 시 효율성을 최대화할 수 있는 방법과, Azure Portal에서 운영 효율성을 모니터링하고 분석할 수 있는 방법을 살펴봅니다. 또한 자동화 기능을 통해 작업량과 오류를 줄이는 방법도 살펴봅니다.
