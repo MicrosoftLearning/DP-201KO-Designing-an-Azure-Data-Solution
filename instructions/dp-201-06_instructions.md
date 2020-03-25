@@ -11,7 +11,7 @@ lab:
 
 **필수 구성 요소**: 이 랩 관련 사례 연구의 내용을 확인했다고 가정합니다.
 
-**랩 파일**: 이 랩용 파일은 _Allfiles\Labfiles\Starter\DP-200.6_ 폴더에 있습니다.
+**랩 파일**: 이 랩용 파일은 _Allfiles\Labfiles\Starter\DP-201.6_ 폴더에 있습니다.
 
 ## 랩 개요
 
@@ -49,9 +49,9 @@ lab:
 
 ### 태스크 1: 비용 최소화를 위한 모범 사례 목록과 Azure 가격 계산기 링크 제공
 
-1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-200.6** 폴더에서 **DP-200-Lab06-Ex01_Ta01.docx** 파일을 엽니다.
+1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.6** 폴더에서 **DP-201-Lab06-Ex01_Ta01.docx** 파일을 엽니다.
 
-1. 그룹 단위로 **15분** 동안 IS 부서에서 비용 최소화를 위해 따라야 하는 모범 사례를 논의한 다음 목록을 작성합니다.
+1. 그룹 단위로 **20분** 동안 IS 부서에서 비용 최소화를 위해 따라야 하는 모범 사례를 논의한 다음 목록을 작성합니다.
 
 > **결과**: 비용 최소화를 위한 모범 사례 목록과 Azure 가격 계산기 링크를 제공하는 Microsoft Word 문서를 작성하여 이 연습을 완료해야 합니다.
 
@@ -65,9 +65,9 @@ lab:
 
 ### 태스크 1: 비용 최소화를 위한 모범 사례 목록과 Azure 가격 계산기 링크 제공
 
-1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-200.6** 폴더에서 **DP-200-Lab06-Ex02_Ta01.docx** 파일을 엽니다.
+1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.6** 폴더에서 **DP-201-Lab06-Ex02_Ta01.docx** 파일을 엽니다.
 
-1. 그룹 단위로 **15분** 동안 AdventureWorks에서 채택해야 하는 모니터링 및 분석 전략을 논의하고 초안을 작성합니다.
+1. 그룹 단위로 **20분** 동안 AdventureWorks에서 채택해야 하는 모니터링 및 분석 전략을 논의하고 초안을 작성합니다.
 
 > **결과**: AdventureWorks에서 채택해야 하는 모니터링 및 분석 전략을 제공하는 Microsoft Word 문서를 작성하여 이 연습을 완료해야 합니다.
 
@@ -81,8 +81,8 @@ lab:
 
 ### 태스크 1: 비용 최소화를 위한 모범 사례 목록과 Azure 가격 계산기 링크 제공
 
-1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-200.6** 폴더에서 **DP-200-Lab06-Ex0_Ta01.docx** 파일을 엽니다.
+1. 랩 가상 머신에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.6** 폴더에서 **DP-201-Lab06-Ex0_Ta01.docx** 파일을 엽니다.
 
-1. 그룹 단위로 **15분** 동안 자동화 언어 및 방식의 옵션 목록을 작성합니다. 명령적 자동화와 선언적 자동화의 차이점을 설명합니다.
+1. 그룹 단위로 **20분** 동안 자동화 언어 및 방식의 옵션 목록을 작성합니다. 명령적 자동화와 선언적 자동화의 차이점을 설명합니다.
 
 > **결과**: 자동화 언어 및 방식의 옵션 목록이 포함된 Microsoft Word 문서를 작성하여 이 연습을 완료해야 합니다.
