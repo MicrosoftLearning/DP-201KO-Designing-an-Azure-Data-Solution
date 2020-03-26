@@ -53,7 +53,7 @@ lab:
 
 ### 태스크 1: AdventureWorks의 일괄 처리 모드 처리 요구 사항 목록 작성
 
-1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.1** 폴더에서 **DP-201-Lab02_Ex01_Ta01.docx** 파일을 엽니다.
+1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.2** 폴더에서 **DP-201-Lab02_Ex01_Ta01.docx** 파일을 엽니다.
 
 1. 그룹 단위로 **15분** 동안 AdventureWorks의 엔터프라이즈 BI 솔루션에 적용할 요구 사항을 논의한 다음 목록을 작성합니다. 사례 연구에서 해당 증거를 제시해야 합니다.
 
@@ -61,7 +61,7 @@ lab:
 
 ### 태스크 2: AdventureWorks의 엔터프라이즈 BI 솔루션을 반영하는 대략적인 아키텍처를 빌드합니다.
 
-1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.1** 폴더에서 **DP-201-Lab01_Ex01_Ta02.docx** 파일을 엽니다.
+1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.2** 폴더에서 **DP-201-Lab01_Ex01_Ta02.docx** 파일을 엽니다.
 
 1. 그룹 단위로 **20분** 동안 AdventureWorks의 엔터프라이즈 BI 솔루션에 적용할 아키텍처를 논의한 다음 다이어그램을 작성합니다. icon 폴더의 png 파일을 사용하여 아키텍처를 빌드할 수 있습니다.
 
@@ -77,7 +77,7 @@ lab:
 
 ### 태스크 1: AdventureWorks의 엔터프라이즈 BI 솔루션 자동화 기능을 포함하도록 대략적인 아키텍처 수정
 
-1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.1** 폴더에서 **DP-201-Lab01_Ex02_Ta01.docx** 파일을 엽니다. 문서를 읽고 예제를 검토합니다.
+1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.2** 폴더에서 **DP-201-Lab01_Ex02_Ta01.docx** 파일을 엽니다. 문서를 읽고 예제를 검토합니다.
 
 1. 그룹 단위로 **15분** 동안 **DP-201-Lab01_Ex01_Ta02.docx** 문서에서 AdventureWorks의 엔터프라이즈 BI 솔루션에 적용하도록 정의한 아키텍처를 검토합니다. Data Factory를 통해 자동화할 워크플로에 Data Factory 아이콘을 추가합니다. icon 폴더의 png 파일을 사용하여 아키텍처를 빌드할 수 있습니다.
 
@@ -93,7 +93,7 @@ lab:
 
 ### 태스크 1: Azure에서 엔터프라이즈급 대화형 봇 설계 수행
 
-1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.1** 폴더에서 **DP-201-Lab01_Ex03_Ta01.docx** 파일을 엽니다. 문서를 읽고 예제를 검토합니다.
+1. 컴퓨터에서 **Microsoft Word**를 시작하고 **Allfiles\Labfiles\Starter\DP-201.2** 폴더에서 **DP-201-Lab01_Ex03_Ta01.docx** 파일을 엽니다. 문서를 읽고 예제를 검토합니다.
 
 1. 그룹 단위로 **10분** 동안 AdventureWorks의 엔터프라이즈급 대화형 봇에 적용할 아키텍처를 논의한 다음 다이어그램을 작성합니다. icon 폴더의 png 파일을 사용하여 아키텍처를 빌드할 수 있습니다.
 
